@@ -10,4 +10,12 @@ I like challenges, i like helping people, i am a very focused boy with the goal 
 - Sempre existe mais para aprender ☀
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RafaelFigueiredo2203)
+<details open>
+  <summary>📈 <b>GitHub Stats</b></summary>
+  <br>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelFigueiredo2203&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFigueiredo2203&layout=compact&theme=dark">
+  </p>
+
+</details>
