@@ -10,3 +10,4 @@ I like challenges, i like helping people, i am a very focused boy with the goal 
 - Sempre existe mais para aprender ☀
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
