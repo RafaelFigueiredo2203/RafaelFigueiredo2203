@@ -18,9 +18,7 @@ I like challenges, i like helping people, i am a very focused person with the go
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFigueiredo2203&layout=compact&theme=dark">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFigueiredo2203&layout=compact&theme=dark">
-     <img src="  https://github-readme-stats.vercel.app/api/pin/?username=RafaelFigueiredo2203&repo=getmech-pwa&cache_seconds=86400&theme=vision-friendly-dark
-">
-  https://github-readme-stats.vercel.app/api/pin/?username=RafaelFigueiredo2203&repo=getmech-pwa&cache_seconds=86400&theme=vision-friendly-dark
+     
   </p>
 
 </details>
