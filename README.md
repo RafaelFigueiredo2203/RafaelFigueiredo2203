@@ -1,7 +1,7 @@
 # Hello 👋🏼
-My name is Rafael Figueiredo Junior , I'm from Brazil , analysis and systems development study at Fatec - Ourinhos 📚 I am always looking for new opportunities, I always like to evolve more and more. .😎
+My name is Rafael Figueiredo, I graduated in Systems Analysis and Development at Fatec - Ourinhos 📚
 
-I like challenges, i like helping people, i am a very focused person with the goal of giving a better future for my family.
+I like challenges, I like helping people and I'm always open to new opportunities.
 
 #### 🌍Sempre em busca de evoluir cada vez mais ☕
 
