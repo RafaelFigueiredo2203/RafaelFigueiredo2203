@@ -45,3 +45,7 @@ Plataforma de perguntas e respostas em tempo real.
 
 - **Email:** [rafaelfigueiredojunior7@gmail.com](mailto:rafaelfigueiredojunior7@gmail.com)
 - **LinkedIn:** [Rafael Figueiredo](https://www.linkedin.com/in/rafael-figueiredo-1197811a1/)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding">
+</div>
