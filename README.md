@@ -43,5 +43,5 @@ Plataforma de perguntas e respostas em tempo real.
 
 ## 📫 Contato
 
-- **Email:** [rafael.figueiredo@example.com](mailto:rafaelfigueiredojunior7@gmail.com)
-- **LinkedIn:** [linkedin.com/in/rafaelfigueiredo](https://www.linkedin.com/in/rafael-figueiredo-1197811a1/)
+- **Email:** [rafaelfigueiredojunior7@gmail.com](mailto:rafaelfigueiredojunior7@gmail.com)
+- **LinkedIn:** [Rafael Figueiredo](https://www.linkedin.com/in/rafael-figueiredo-1197811a1/)
