@@ -1,31 +1,47 @@
-# Hello 👋🏼
-My name is Rafael Figueiredo, I graduated in Systems Analysis and Development at Fatec - Ourinhos 📚
+# 👋 Olá! Eu sou o Rafael Figueiredo
 
-I like challenges, I like helping people and I'm always open to new opportunities.
-
-#### 🌍Sempre em busca de evoluir cada vez mais ☕
-
-- ReactJs/NodeJs  💻💓
-- Aprendendo NodeJs/React Native 🔥
-
-<br/>
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+🎓 **Formado em Análise e Desenvolvimento de Sistemas na Fatec - Ourinhos**  
+🌍 **Localização:** Mairinque/SP, Brasil  
 
 
+## Sobre Mim
 
-<details open>
-  <summary>📈 <b>GitHub Stats</b></summary>
-  <br>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelFigueiredo2203&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"/>
+Sou apaixonado por desafios e sempre em busca de novas oportunidades para aprender e crescer. Gosto de ajudar as pessoas e acredito no poder da colaboração para superar obstáculos.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFigueiredo2203&layout=compact&theme=dark">
-      
-     
-  </p>
+## 🚀 Tecnologias & Ferramentas
 
-</details>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![React Native](https://img.shields.io/badge/-React%20Native-333?style=flat&logo=react)
+
+## 📊 GitHub Stats
+
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFigueiredo2203&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFigueiredo2203&layout=compact&theme=radical)
+
+## 📌 Projetos Principais
+
+### [getmech-pwa](https://github.com/RafaelFigueiredo2203/getmech-pwa)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+Aplicação PWA para gestão de mecânicas.
+
+### [moveit-NextJs-app](https://github.com/RafaelFigueiredo2203/moveit-NextJs-app)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+Aplicação para gamificação de exercícios usando Next.js.
+
+### [letmeask-NLWTogether-TrilhaReactJs](https://github.com/RafaelFigueiredo2203/letmeask-NLWTogether-TrilhaReactJs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+Plataforma de perguntas e respostas em tempo real.
+
+## 🎯 Objetivos
+
+- **Curto Prazo:** Aprimorar minhas habilidades em Node.js e React Native.
+- **Longo Prazo:** Contribuir para projetos open-source e liderar iniciativas de desenvolvimento de software.
+- **Sempre aberto a novos desafios.**
+
+## 📫 Contato
+
+- **Email:** [rafael.figueiredo@example.com](mailto:rafaelfigueiredojunior7@gmail.com)
+- **LinkedIn:** [linkedin.com/in/rafaelfigueiredo](https://www.linkedin.com/in/rafael-figueiredo-1197811a1/)
