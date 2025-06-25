@@ -8,10 +8,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm passionate about solving challenges and always looking for new opportunities to learn and grow. I enjoy helping others and strongly believe in the power of collaboration to overcome obstacles.
-
-Currently, I'm actively contributing to open-source and volunteer projects focused on education and tech community support.
-
+I’m a fullstack developer focused on solving real-world problems through code. I enjoy working in collaborative environments and contributing to projects that create a positive impact.
+Currently, I’m involved in open-source and volunteer initiatives that support education and help junior developers grow.
+I’m always looking to improve my skills and explore modern technologies — especially within the JavaScript/TypeScript ecosystem, including Next.js, NestJS, Prisma, and PostgreSQL
 ---
 
 ## 🚀 Tech Stack & Tools
